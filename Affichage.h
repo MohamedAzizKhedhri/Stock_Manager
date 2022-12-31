@@ -9,4 +9,4 @@
 
 void affichage(int x);
 
-#endif // AFFICHAGE_H_INCLUDED
+#endif  // AFFICHAGE_H_INCLUDED
