@@ -7,19 +7,19 @@
 
 #### Un produit dans ce projet peut être:
 
-:heavy_plus_sign: Ajouté
+:heavy_plus_sign: Ajouter
 
-:arrows_counterclockwise: Modifié
+:arrows_counterclockwise: Modifier
 
-:mag: Cherché
+:mag: Chercher
 
-:wastebasket: Supprimé
+:wastebasket: Supprimer
 
-:bookmark_tabs: Affiché avec sa description en détail: identifiant +nom +prix +quantité +catégorie
+:bookmark_tabs: Afficher avec sa description en détail: identifiant +nom +prix +quantité +catégorie
 
 
 #### De plus ce projet vous permet de:
 
-:spiral_calendar: Afficher votre stock du magasin
+:receipt: Afficher votre stock du magasin
  
-:receipt: Voir l'historique des opérations faites!
+:spiral_calendar: Voir l'historique des opérations faites!
